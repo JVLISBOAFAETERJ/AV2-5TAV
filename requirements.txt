@@ -1,0 +1,16 @@
+streamlit
+langchain
+langchain_openai
+langchain_community
+PyPDF2
+python-dotenv
+azure-core
+azure-ai-formrecognizer
+faiss-cpu
+pypdf
+rapidocr-onnxruntime
+pydantic
+PyMuPDF
+unstructured
+openpyxl
+networkx
